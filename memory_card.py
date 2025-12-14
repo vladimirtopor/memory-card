@@ -174,4 +174,5 @@ ask(q)
 btn_ok.clicked.connect(click_ok)
 
 window.show()
+
 app.exec()
